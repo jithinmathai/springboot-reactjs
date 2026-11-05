@@ -24,7 +24,7 @@ A minimal setup that packages both a Spring Boot backend and a React (Vite) fron
 ## Requirements
 
 - Java 25
-- Node.js 26 LTS & npm 11 (auto-installed by Maven build)
+- Node.js 26 LTS & npm 11 are auto-installed for the Maven build; for `npm run dev` use Node ^20.19, ^22.13 or >=24
 - Maven 3.6.3+
 
 ## Setup
